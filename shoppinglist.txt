@@ -7,3 +7,4 @@ Kiwi
 Banana
 Pineapple
 Mango
+Apple
